@@ -28,9 +28,9 @@
 
     const shareCode = '&shareCode=HS4MNEMIYGQ'
     
-    const afp = '&afp2=ti'
+    const afp = '&afp2=td'
     
-    const source = '&utm_medium=ti'
+    const source = '&utm_medium=td'
 
     const destino = url+shareCode+afp+source
 
